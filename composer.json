@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/curl",
+	"name": "oparizek/curl",
 	"type": "library",
 	"description": "Curl wrapper for Nette Framework",
 	"keywords": ["nette", "curl", "http"],
